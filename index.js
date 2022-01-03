@@ -1,1 +1,1 @@
-alert("Hello World");
+$("h1").text("BYE");
